@@ -27,7 +27,6 @@ public class UserController {
         app_assetfilesex.setFileName("啥的");
         app_assetfilesex.setFileType("jpg");
         return app_assetfilesex;
-       ---fxxxxxx
     }
 
 }
