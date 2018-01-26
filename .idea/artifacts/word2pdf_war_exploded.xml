@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="word2pdf:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/word2pdf_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="word2pdf" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="word2pdf/web/Web2" />
+      <element id="javaee-facet-resources" facet="word2pdf/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
