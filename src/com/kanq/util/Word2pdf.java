@@ -100,7 +100,7 @@ public class Word2pdf {
     public static void main(String[] args) throws Exception {    
         Word2pdf d = new Word2pdf();    
        //System.err.println(d.getDocPageSize("d:\\局域网组建.doc"));  
-        d.wordToPDF("F:\\谢昊java.doc", "F:\\1111.pdf");    
+        d.wordToPDF("F:\\java.doc", "F:\\1111.pdf");    
     }    
     
 } 
